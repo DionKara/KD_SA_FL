@@ -1,0 +1,5 @@
+
+To run the script .py and evaluate, use this:
+
+ python semevalscorer.py  gold.csv model_outputs.csv  (on CMD)
+

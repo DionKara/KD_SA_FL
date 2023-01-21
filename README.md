@@ -1,7 +1,9 @@
 ## Neural knowledge transfer (distillation) for improved Sentiment Analysis in texts with figurative language
 
 
-#### Overview
+
+
+### Overview
 
 The goal of this project was to improve the performance of a neural network when analyzing the sentiment of texts with figurative language. Sarcasm, irony and metaphors usually revert the actual meaning of a sentence, since positive words are used with negative attitude and vice versa.
 
@@ -15,7 +17,8 @@ More details about the implementation can be found in the published paper linked
 
 
 
-#### Project Organization
+
+### Project Organization
 
 1. student - ROBERTA - Potamias - It contains the files used to recreate the student architecture from the respective source paper mentioned above.
 

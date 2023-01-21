@@ -1,7 +1,6 @@
 ## Neural knowledge transfer (distillation) for improved Sentiment Analysis in texts with figurative language
 
-
-
+</br>
 
 ### Overview
 
@@ -16,7 +15,7 @@ Specifically, we recreated the state-of-the-art model (student) found in - - and
 More details about the implementation can be found in the published paper linked below 
 
 
-
+------------
 
 ### Project Organization
 
@@ -31,7 +30,8 @@ More details about the implementation can be found in the published paper linked
 5. distillation training - alpha.ipynb - It's the final notebook used to get the best performing student model.
 
 
-
+</br>
+----------------
 
 This project was part of my diploma thesis - - and was published in the 2022 IEEE 32nd International Workshop on Machine Learning for Signal Processing (MLSP) - https://ieeexplore.ieee.org/abstract/document/9943314.
 

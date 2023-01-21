@@ -31,7 +31,9 @@ More details about the implementation can be found in the published paper linked
 
 
 </br>
+
 ----------------
+
 
 This project was part of my diploma thesis - https://github.com/DionKara/SA_Diploma_Thesis - and was published in the 2022 IEEE 32nd International Workshop on Machine Learning for Signal Processing (MLSP) - https://ieeexplore.ieee.org/abstract/document/9943314.
 
